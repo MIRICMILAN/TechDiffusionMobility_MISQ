@@ -1,6 +1,6 @@
 # Technology Diffusion, Human Capital, and Employee Mobility
 
-**Authors:** Milan Miric and Hakan Ozalp
+**Authors:** Milan Miric (University of Southern California) and Hakan Ozalp (University of Amsterdam)
 
 ## Abstract
 
